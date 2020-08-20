@@ -1,0 +1,7 @@
+inicontoh:anjsd
+example1:example
+example2:example
+username:password
+nulispake:titikdua
+memisahusername:danpassword
+paketitik:dua
